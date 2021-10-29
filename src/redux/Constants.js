@@ -1,0 +1,3 @@
+export const ACTION_ADD = 'ACTION_ADD'
+export const ACTION_REMOVE = 'ACTION_REMOVE'
+export const ACTION_CLEAR = 'ACTION_CLEAR'
